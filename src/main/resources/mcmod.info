@@ -1,0 +1,24 @@
+{
+  "modListVersion": 2,
+  "modList": [
+    {
+      "modid": "planut",
+      "name": "Player Animation Utility",
+      "description": "A GeckoLib helper utility for easy player animation.",
+      "version": "1.0",
+      "mcversion": "1.12.2",
+      "url": "",
+      "updateUrl": "",
+      "authorList": ["Prismatic"],
+      "credits": "SleepX10 for Gecko Player Models, Planut's base.",
+      "logoFile": "",
+      "screenshots": [],
+      "dependencies": [
+        "geckolib3"
+      ],
+      "requiredMods": [
+        "geckolib3"
+      ]
+    }
+  ]
+}
